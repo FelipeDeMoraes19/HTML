@@ -15,8 +15,6 @@ html{
     font-weight: bold;
 }
 
-/* header */
-
 .header{
     text-align: center;
 }
@@ -28,8 +26,6 @@ html{
 .main-paragraph{
     font-style: italic;
 }
-
-/* img destaque */
 
 .biography-container{
     padding: 25px 0;
